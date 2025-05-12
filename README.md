@@ -1,35 +1,67 @@
-# AirBnB_project
-# AirBnB Listing & Reviews
+# Airbnb Listings & Reviews – Impact of Regulations
+
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
 
-## Project Link
 
-[AirBnB Impact of Regulations](https://www.kaggle.com/code/sasevivek/airbnb-project)
+## 🚀 Project Link
+
+
+[Airbnb Impact of Regulations](https://www.kaggle.com/code/sasevivek/airbnb-project)
+
+
 
 <img src="https://www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg" width=1200>
 
-## Overview :
-This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
 
-## Dataset :
-The dataset includes the following files:
-- listings.csv
-Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
-- reviews.csv
-Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
-- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+## 📌 Overview
+This project analyzes Airbnb listings and reviews data to understand how government regulations have affected the short-term rental market in major cities.
 
-## Insights :
-1. The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
-2. After the startup is known to everyone and becomes a common utility, AirBnBs start increasing in numbers and prices also kept on decreasing.
-3. After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
-4. Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
+Airbnb is a platform that allows people to rent out their properties to travelers. Over the years, the platform has grown rapidly, but with growth came regulations. This project explores how these regulations have impacted the number of listings and their pricing.
 
-## Recommendation :
-1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
-2. Such regulations might add to AirBnBs losses which might be difficult to recover later.
-3. If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
-4. It is recommended to watch out for any such regulations at other places and be prepared for it.
-5. AirBnB can replicate such regulations at other places.
-6. They can keep strict rules to onboard and release the hosts.
-7. They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
+
+
+## 📂 Dataset
+
+The dataset contains Airbnb data for over *250,000 listings* across *10 major cities* and more than *5 million guest reviews*.
+
+### Files Included:
+- **listings.csv** – Contains detailed information about each listing (host, location, pricing, room type, etc.).
+- **reviews.csv** – Includes guest reviews (review text, date, reviewer details).
+
+*Dataset Source*: Airbnb Listing and Review Dataset
+
+## 🛠 Technologies Used
+
+- Python (Pandas, Matplotlib, Seaborn)
+- kaggle
+  
+## 📊 Insights
+
+1. *Initial Growth*  
+   After Airbnb's launch, listings and prices grew rapidly due to early adoption.
+
+2. *Market Saturation*  
+   As Airbnb became widely known, listings kept increasing, but prices began to fall due to increased supply.
+
+3. *Regulatory Impact (2015)*  
+   Regulations caused uncertainty, leading to a drop in the number of listings and a rise in prices.
+
+4. *Post-Regulation Recovery (2019)*  
+   Once regulations stabilized, listings grew again, and prices fell due to higher supply.
+
+---
+
+## ✅ Recommendations
+
+- *Monitor Local Regulations*  
+  Watch for similar regulations in other areas and prepare in advance.
+
+- *Limit Listings Per Area*  
+  Avoid overcrowding and reduce chances of government interference.
+
+- *Strict Host Onboarding*  
+  Ensure hosts meet quality and legal standards to maintain customer trust.
+
+- *Maintain User Experience*  
+  Avoid service disruption due to regulations, which can hurt brand perception.
+
